@@ -1,0 +1,22 @@
+// Base project settings
+
+:root {
+  // Fonts
+  --font-family: "Muller", "Roboto", sans-serif;
+  --font-weight-base: 400;
+  --font-size-base: 15px;
+  --font-style-base: normal;
+  --font-line-height-base: 1.5;
+
+  // Colors
+  --text-color-dark: #000000;
+  --text-color-light: #ffffff;
+  --bg-color-dark: #000000;
+  --bg-color-light: #ffffff;
+  --accent-color: #db2512;
+
+  // Offsets
+  // --content-width: 1170px;
+  // --container-offset: 15px;
+  // --container-width: calc(var(--content-width) + (var(--container-offset) * 2));
+}
