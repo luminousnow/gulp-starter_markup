@@ -1,4 +1,4 @@
-# Gulp - сборка MaxGraph
+# На основі збірки MaxGraph `https://github.com/maxdenaro/gulp-maxgraph`
 
 > Используется Gulp 4
 
